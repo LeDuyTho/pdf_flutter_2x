@@ -12,7 +12,7 @@ Wrapped around [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) 
           ref: master
     # or: 
     dependencies:
-      pdf_flutter: ^2.0.0
+      pdf_flutter_2x: ^2.0.0
 
 ### 2. On iOS enable PDF preview like this:
 
