@@ -6,7 +6,7 @@ Wrapped around [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) 
 
 ### 1. Add `pdf_flutter`on `pubspec.yml` 
     dependencies:
-      pdf_flutter:
+      pdf_flutter_2x:
         git:
           url: git://github.com/LeDuyTho/pdf_flutter_2x
           ref: master
