@@ -1,4 +1,4 @@
-package com.erluxman.pdf_flutter;
+package com.otl.pdf_flutter_2x;
 
 import android.content.Context;
 
